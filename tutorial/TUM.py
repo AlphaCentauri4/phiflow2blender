@@ -15,7 +15,7 @@ DOMAIN = dict(x=2*RES, y=RES, z=3*RES)
 NUM_FRAMES = 500
 
 #TODO: Change this path to where you want to save the simulation data
-SCENE_PATH = "sim_data"
+SCENE_PATH = "jianwu_user/sim_data"
 scene = Scene(SCENE_PATH)
 
 
